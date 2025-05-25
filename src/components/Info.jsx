@@ -4,9 +4,9 @@ function Info() {
   return (
     <div
       className="min-h-screen flex flex-col items-center justify-center px-4 py-10"
-      style={{ backgroundColor: '#ADB2D4' }}
+      style={{ backgroundColor: '#F1EFEC' }}
     >
-      <h2 className="text-green-800 text-3xl md:text-4xl font-bold mb-10 text-center">
+      <h2 className="text-blue-900 text-3xl md:text-4xl font-bold mb-10 text-center">
         First Track Superiority
       </h2>
 
@@ -16,9 +16,9 @@ function Info() {
           <div className="text-blue-800 mt-1">Our Trusted Clients</div>
         </div>
 
-        <div className="bg-green-200 rounded-xl shadow-md py-6 px-4 text-center hover:scale-105 transition-transform">
-          <div className="text-2xl font-bold text-green-900">40K+</div>
-          <div className="text-green-800 mt-1">Orders Successfully Delivered</div>
+        <div className="bg-red-100 rounded-xl shadow-md py-6 px-4 text-center hover:scale-105 transition-transform">
+          <div className="text-2xl font-bold text-red-900">40K+</div>
+          <div className="text-red-800 mt-1">Orders Successfully Delivered</div>
         </div>
 
         <div className="bg-purple-200 rounded-xl shadow-md py-6 px-4 text-center hover:scale-105 transition-transform">

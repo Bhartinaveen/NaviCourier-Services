@@ -48,7 +48,7 @@ const Contact = () => {
           </button>
         </form>
 
-        <div className="bg-green-400 text-white p-6 rounded-lg mt-8 w-full max-w-md">
+        <div className="bg-blue-900 text-white p-6 rounded-lg mt-8 w-full max-w-md">
           <h2 className="text-lg font-bold mb-2">Contact Information</h2>
           <p><strong>Address:</strong> 123 Logistics Street, Cityname, Country</p>
           <p><strong>Phone:</strong> +1 (294) 879-890</p>

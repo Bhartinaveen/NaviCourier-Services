@@ -15,10 +15,12 @@ const features = [
     bg: 'bg-blue-100 hover:bg-blue-200'
   },
   {
-    icon: <FaClock className="text-green-700 text-3xl mb-4" />,
-    title: 'On-Time Commitment',
-    description: "Deliveries that arrive when they're supposed to.",
-    bg: 'bg-emerald-100 hover:bg-emerald-200'
+  icon: <FaClock className="text-[#7C4585] text-3xl mb-4" />,
+title: 'On-Time Commitment',
+description: "Deliveries that arrive when they're supposed to.",
+bg: 'bg-[#f3e8f9] hover:bg-[#ecdaf4]'
+
+
   },
   {
     icon: <FaHeadset className="text-yellow-700 text-3xl mb-4" />,

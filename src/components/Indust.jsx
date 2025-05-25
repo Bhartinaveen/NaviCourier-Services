@@ -8,18 +8,18 @@ const slides = [
 
   },
   {
-    image: './image/q6.png',
-    title: 'Warehouse Logistics',
-    description: 'Optimize your warehouse operations with our expert solutions in inventory management and fulfillment.'
+    image: './image/q15.png',
+    title: 'Consumer Electronics',
+    description: 'Experience the future of technology with our premium consumer electronics — smart, sleek, and built for everyday life.'
   },
   {
     image: './image/q9.png',
-    title: ' Healthcare',
+    title: ' Healthcare & Pharma',
     description: 'Empowering healthier lives with accessible, affordable, and expert healthcare solutions Because everyone deserves quality care they can rely on.'
+ },
+ 
+  
 
-
-
-  }
 ];
 
 const IndustryExpertise = () => {

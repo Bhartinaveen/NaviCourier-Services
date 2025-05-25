@@ -2,7 +2,7 @@ import React from 'react';
 
 function Services() {
   return (
-    <div className="bg-gray-50 py-10 px-4 md:px-16 lg:px-24">
+    <div className="bg-gray-300 py-10 px-4 md:px-16 lg:px-24">
       <h2 className="text-3xl font-bold text-center mb-10">Our Services</h2>
       <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2">
         {/* Supply Chain Optimization */}
@@ -15,7 +15,7 @@ function Services() {
         </div>
 
         {/* Real-Time Tracking */}
-        <div className="bg-green-50 hover:bg-green-100 transition duration-300 shadow-md rounded-2xl p-6 text-center">
+        <div className="bg-red-50 hover:bg-red-100 transition duration-300 shadow-md rounded-2xl p-6 text-center">
           <div className="flex justify-center mb-4">
             <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 17v-2a4 4 0 018 0v2M5 10h14M5 6h14M5 14h14" /></svg>
           </div>
